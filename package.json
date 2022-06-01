@@ -1,0 +1,14 @@
+{
+  "name": "vacabot",
+  "version": "0.0.1",
+  "description": "Juego de VacaBot para la Game Maker Jam 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iván Núñez Gómez",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
+}
